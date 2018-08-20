@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name":"StarMusic",
+    "icon":"./assets/AppLogo.png",
+    "sdkVersion": "27.0.0",
+    "version": "1.0.0",
+    "slug": "starMusic",
+    "splash":{
+      "backgroundColor":"#C62F2F",
+      "resizeMode":"contain",
+      "image":"./assets/startScreen.png"
+    },
+    "ios": {
+      "bundleIdentifier": "com.Troy.toilet"
+    },
+    "android": {
+      "package": "com.Troy.toilet",
+      "icon":"./assets/AppLogo.png"
+    }
+  }
+}
