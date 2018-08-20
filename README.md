@@ -1,3 +1,13 @@
+该app是基于vue-native开发的，而vue-native又是基于react-native开发的。
+
+###目前该app完成的功能：
+* [点击首页的列表去到相对应的列表页面]
+* [首页跳到列表页面时有个加载状态]
+* [点击列表中音乐会下载相对应的音乐到本地]
+* [可删除下载本地的音乐]
+* [可播放网络资源的音乐和下载到本地的音乐]
+* [可对正在播放的音乐进行上一曲、下一曲和暂停的操作]
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
